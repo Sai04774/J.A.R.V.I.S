@@ -16,7 +16,7 @@
     ```
 2. Navigate to the project directory:
     ```sh
-    cd jarvis-assistant
+    cd J.A.R.V.I.S
     ```
 3. Install the required packages:
     ```sh
